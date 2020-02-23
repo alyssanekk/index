@@ -29,4 +29,9 @@ The following image is the original outline for the subdivisions in Costa Rica. 
 ![Stretch Goal 3](CostaRica.gif)
 
 ## Part 3
- ![Side-by-Side](costa_rica_project1part3_bothcharts.png)
+![Step 1 - Original](project_1_part3.png)
+![Filled Bar Chart](project_1_part3_filled.png)
+![Percentages Added](project_1_part3_percent.png)
+![Population Density Map](project_1_part3_pop_density_map.png)
+![Side-by-Side](costa_rica_project1part3_bothcharts.png)
+
