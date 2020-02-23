@@ -29,9 +29,9 @@ The following image is the original outline for the subdivisions in Costa Rica. 
 ![Stretch Goal 3](CostaRica.gif)
 
 ## Part 3
-![Step 1 - Original](project_1_part3.png)
+The following images demonstrate the step-by-step process towards getting the side-by-side image. The bar chart originally separates Costa Rica's counties and shows the percent population in each one. It's in a decreasing order (pareto chart style). The next image has added color scales where the lighter the color gets, the smaller the population is. The population densities map also has the lighter colors as a smaller population. Finally, after putting the charts side-by-side you can see visually where the populations are the greatst and in what areas of Costa Rica.
+![Step 1](project_1_part3_percent.png)
 ![Filled Bar Chart](project_1_part3_filled.png)
-![Percentages Added](project_1_part3_percent.png)
 ![Population Density Map](project_1_part3_pop_density_map.png)
 ![Side-by-Side](costa_rica_project1part3_bothcharts.png)
 
