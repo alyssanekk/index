@@ -22,6 +22,5 @@ Alyssa Nekritz
 
 ## Project 1
 
-1. [Project 1](https://alyssanekk.github.io/index/project1) (Due Feb. 22)
+1. [Project 1 - Costa Rica](https://alyssanekk.github.io/index/project1) (Due Feb. 22)
 
-2. [Project 1 Individual Desirable](https://alyssanekk.github.io/index/) (Part 3)
