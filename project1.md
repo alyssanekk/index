@@ -27,3 +27,6 @@ The following image is the original outline for the subdivisions in Costa Rica. 
 3. Costa Rica 3-D Imagery
 
 ![Stretch Goal 3](CostaRica.gif)
+
+## Part 3
+ ![Side-by-Side](costa_rica_project1part3_bothcharts.png)
