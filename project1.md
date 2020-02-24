@@ -35,3 +35,5 @@ The following images demonstrate the step-by-step process towards getting the si
 ![Population Density Map](project_1_part3_pop_density_map.png)
 ![Side-by-Side](costa_rica_project1part3_bothcharts.png)
 
+## Stretch Goal
+![Stretch Goal 1](project_1_part3_stretch_goal_1.png)
