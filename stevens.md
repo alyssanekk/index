@@ -1,4 +1,4 @@
-## Response to Stevens et al.
+## Stevens et al. Response
 
 Alyssa Nekritz
 
