@@ -10,6 +10,8 @@ Alyssa Nekritz
 
 [Wardrop response](https://alyssanekk.github.io/index/wardrop) (Feb. 17)
 
+[Stevens response](https://alyssanekk.github.io/index/stevens) (Mar. 2)
+
 ## Workshop
 
 1. Week 1 (Jan.22) - Introduction
