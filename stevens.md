@@ -15,3 +15,12 @@ Question 2: The random forest method used bt the authors is a machine learning a
 A machine learning algorithms are
 
 Question 3: In the readings, the authors use a number of geospatial covariates as predictors in their machine learning method. What were thesegeospatial covariates and approximately how big of a data set did they represent (in general terms)? What is the significance of big data in the estimation of machine learning methods for interring the correlates and drivers of human population distributions?
+
+Question 4: The author's results present a remarkable improvement over previous geospatial descriptions at very high resolution, of the distribution of the human population. Within the context of human development in LMICs, what is the significance of haveing a highly accurate description of where each person in located across the planet?
+
+The results were the more accurate and less biased than other models. This gives countries the information they need in order to implement policy in the best way possible. The RF methods make distances to human resources more accurate. For example, you can look at distances to heatlh facilities/schools/roads easily. The variability of population density is clearly outlined and more accurate than other methods. This helps administrations with representations and how the land features can help people around them (resources, access, transportation, etc.)
+
+Question 5: Within the context of human development in LMICs, what is the relevance to your area of investigation in having a highly accurate description of where each household and person is located across planet Earth?
+
+For Costa Rica, it might be easier for them to calculate what they need to do in order to meet their goals about carbon neutrality. Costa Rica wants to become carbon neutral by 2021, and looking at household data might help the administration and environmental groups locate where geothermal energy locations should be built. Additionally, it could help look at what the fastest energy transportation could go. The population dense areas should have easy access to energy, and less dense areas should also have access to energy and public resources as well. Census data for the UN is also important for looking at reproduction rates and population sizes in order to delegate financial support and other means of aid in a productive manner.
+
