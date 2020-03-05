@@ -19,7 +19,8 @@ Alyssa Nekritz
 3. Week 3 (Feb. 3) - Begin Project 1 Part 1, First Team Presenation
 4. Week 4 (Feb. 10) - Lloyd et al., Continue Project 1 Part 2
 5. Week 5 (Feb. 17) - Complete Project 1 Part 3, Wardrop
-6. Week 6 (Feb. 24) - Begin Project 2
+6. Week 6 (Feb. 24) - Begin Project 2 Part 1
+7. Week 7 (Mar. 2) - Stevens, Continue Project 2 Part 1
 
 
 ## Project 1
