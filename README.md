@@ -12,6 +12,8 @@ Alyssa Nekritz
 
 [Stevens response](https://alyssanekk.github.io/index/stevens) (Mar. 2)
 
+[Nieves response](https://alyssanekk.github.io/index/nieves) (Mar. 25)
+
 ## Workshop
 
 1. Week 1 (Jan.22) - Introduction
