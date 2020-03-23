@@ -25,3 +25,6 @@ Alyssa Nekritz
 ### Stretch Goal Attempt
 
 ![Stretch Goal](project2pt1_stretchgoal1_attempt.png)
+
+## Part 2
+
