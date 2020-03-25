@@ -29,4 +29,7 @@ Alyssa Nekritz
 
 1. [Project 1](https://alyssanekk.github.io/index/project1) (Due Feb. 22) Country: Costa Rica
 
-2. [Project 2](https://alyssanekk.github.io/index/project2) (Mar. 6)
+
+## Project 2
+
+2. [Project 2](https://alyssanekk.github.io/index/project2) (last updated: March 25)
