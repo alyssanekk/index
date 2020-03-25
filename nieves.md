@@ -12,4 +12,10 @@ The random forest machine learning method refers to the non linear statistical r
 
 Question: What is daysmmetric population allocation? Which geospatial covariates proved to be the most important when predicting global values of where humans live?
 
-Daysymmetric population allocation redistributes the population counts from census-based administrative units and puts them into grid cells based on the weighted layers (population densities here). Relationships between climate, topopgraphy, and transport links are extremely important when looking at population growth. It's easier to understand why growth occurred. Envrionmental features explain the bulk of why there are higher population densities(ecology and topography of low and middle income areas).
+Daysymmetric population allocation redistributes the population counts from census-based administrative units and puts them into grid cells based on the weighted layers (population densities here). Relationships between climate, topopgraphy, and transport links are extremely important when looking at population growth. It's easier to understand why growth occurred. Land cover and buildings are also important for predictions especially in urban areas. Envrionmental features can explain the bulk of why there are higher population densities(ecology and topography of low and middle income areas).
+
+1. urban/suburban extents
+2. built environment and urban/suburban proxies 
+3. climatic/environmental variables 
+4. populated place covariates
+5. transportation networks
