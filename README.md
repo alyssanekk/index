@@ -28,8 +28,10 @@ Alyssa Nekritz
 10. Week 10 (Mar. 23) - Project 2 Part 2, Nieves
 11. Week 11 (Mar. 30) - Project 2 Part 3, Strano
 12. Week 12 (Apr. 6) - Project 3 Part 1, Maina
-13. Week 13 (Apr. 13) - Project 3 Part 2, Reed
-
+13. Week 13 (Apr. 13) - Project 3 Part 2, Reed, Complete Project 3
+14. Week 14 (Apr. 20) - Project 4
+15. Week 15 (Apr. 27) - Group Meeting/Planning
+FINAL DUE: May 15 by 5pm
 
 ## Project 1
 
