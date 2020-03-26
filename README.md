@@ -23,6 +23,12 @@ Alyssa Nekritz
 5. Week 5 (Feb. 17) - Complete Project 1 Part 3, Wardrop
 6. Week 6 (Feb. 24) - Begin Project 2 Part 1
 7. Week 7 (Mar. 2) - Stevens, Continue Project 2 Part 1
+8. Week 8 (Mar. 9) - Spring Break
+9. Week 9 (Mar. 16) - Classes Cancelled
+10. Week 10 (Mar. 23) - Project 2 Part 2, Nieves
+11. Week 11 (Mar. 30) - Project 2 Part 3, Strano
+12. Week 12 (Apr. 6) - Project 3 Part 1, Maina
+13. Week 13 (Apr. 13) - Project 3 Part 2, Reed
 
 
 ## Project 1
