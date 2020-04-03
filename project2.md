@@ -52,4 +52,4 @@ Alyssa Nekritz
 
 ![Last Step](project2_part2_mapview.png)
 
-## Part 3
+
