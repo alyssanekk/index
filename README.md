@@ -40,4 +40,4 @@ FINAL DUE: May 15 by 5pm
 
 ## Project 2
 
-2. [Project 2](https://alyssanekk.github.io/index/project2) (last updated: March 25)
+2. [Project 2](https://alyssanekk.github.io/index/project2) (Due Apr. 5) Country: Costa Rica
