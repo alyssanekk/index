@@ -25,7 +25,7 @@ cropped the adm2 subdivision Goicoechea
 ###
 
 ![dsg conts](sm_dsg_conts.png)
-![subpolys](subploys.png)
+![subpolys](subpolys.png)
 
 
 ![subpolys before layer](subpolys_before_layer.png)
