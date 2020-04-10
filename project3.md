@@ -1,6 +1,7 @@
 # Project 3
 
 Alyssa Nekritz
+## Part 1
 
 ### Background
 
