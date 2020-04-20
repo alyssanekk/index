@@ -32,10 +32,8 @@ It's easier to visualize the densities this way.
 
 ### Contour Lines
 I then added contour lines to the plot.
-![uas plot](plot_uas.png)
-
+![sf](plot(sf_multiline_obj).png)
 It was then put onto the density colored plot.
-
 ![subpolys filtered](subpolys_filtered.png)
 
 ### Distinguishing Urban Areas
@@ -44,13 +42,5 @@ The next image shows a plot that seperates urban areas and settlements.
 
 ![Goicoechea Urban Areas](Goicoechea_urban_areas.png)
 
+Lastly, this image shows the urbanized areas in Goicoechea. The dots represent the density.
 ![Goicoechea Urban Areas w/points](Goicoechea_urban_areas_with_points.png)
-![sf](plot(sf_multiline_obj).png)
-
-
-###
-
-![dsg conts](sm_dsg_conts.png)
-
-![subpolys before layer](subpolys_before_layer.png)
-
