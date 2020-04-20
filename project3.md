@@ -47,11 +47,30 @@ Lastly, this image shows the urbanized areas in Goicoechea. The dots represent t
 
 ## Part 2
 
-TOTAL POPULATION OF GOICOECHEA ADM2 = 
-Number of human settlements or urban areas = 
+TOTAL POPULATION OF GOICOECHEA ADM2 = 124,702
+Number of urban areas = 11 obs., 4 variables 
 
-Description of the distribution sizes and densities
+Distribution sizes and densities: see the above charts in Part 1 to get visuals on the densities
 
-A description of the roadways and your estimate of the transportation networks level of service in comparison to the spatial distriubtion of human settlements and urban areas
+### Urban Area with Roads
+![Goicoechea Urban Roads](Goicoechea_urban_areas_with_roads.png)
 
-A description of health care facilities and your estimate of service accessibility in comparison to the spatial distriubtion of human settlements and urban areas
+There were very minimal roadways. There were Primary Routes, Secondary Routes, and an Unknown. There didn't seem to be enough roads, but there was limited data given to begin with about the road system in Costa Rica. There were three primary roads (red) one secondary (pink) and one unknown (white). 
+
+As for transportation, I think there is a lot of room for improvement, whether it be the data or development in order to get people to move around easier. I don't think the goven roads are very sophisticated.
+
+### Roadways and Hospital-type Centers
+![Roadways and Hospitals in Goicoechea](Roadways_and_Hospitals_throughout_Goicoechea.png)
+
+The only red dot is the only hospital in the entire area.
+The orange dots are clinics.
+The yellow small dots represent doctors, pharmacies, and dentists.
+
+The healthcare facility breakdown:
+clinics = 9
+dentists = 14
+doctors = 2
+hospitals = 1
+pharmacies = 18
+
+There's a lack to adequate health care in Goicoechea. There should be another hospital near the more urban dense population near the middle of the map. I think there are a lot of accessible cinics, but there's not enough proportionally for the nearly 125K population.There are more hotpitals near urban areas, which makes sense.
