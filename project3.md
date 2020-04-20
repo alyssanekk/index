@@ -5,15 +5,29 @@ Alyssa Nekritz
 
 ### Background
 
-cropped the adm2 subdivision Goicoechea
+For this project, I used the adm2 subdivision "Goicoechea."
 
-### Goicoechea Density Image
-![Goicoechea](density_image.png)
+Goichoechea's current population is 124, 704, and it's known for it's great weather.
+It's a largy urban area with less than 3% of the population in a "rural" environment.
+
+http://www.citypopulation.de/en/costarica/admin/108__goicoechea/
 
 ### Goicoechea pop19
 ![Goicoechea pop19](Goicoechea_pop19.png)
 
+^^^
+That is the population per grid cell distribution in Goicoechea. The left portion is much denser than the right. It's populated because it's near the capital (San Jose). Namely, it's located in the San Jose province.
+
+### Goicoechea Density Image
+![Goicoechea](density_image.png)
+
+### Population Point Image
 ![Goicoechea Population Points](Goicoechea_pop_points.png)
+
+The dots represent the population persons geospatially.
+dot = person
+It's easier to visualize the densities this way.
+
 
 ![Urban Areas](urban_areas.png)
 
