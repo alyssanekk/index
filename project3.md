@@ -18,9 +18,6 @@ http://www.citypopulation.de/en/costarica/admin/108__goicoechea/
 ^^^
 That is the population per grid cell distribution in Goicoechea. The left portion is much denser than the right. It's populated because it's near the capital (San Jose). Namely, it's located in the San Jose province.
 
-### Goicoechea Density Image
-![Goicoechea](density_image.png)
-
 ### Population Point Image
 ![Goicoechea Population Points](Goicoechea_pop_points.png)
 
@@ -28,22 +25,32 @@ The dots represent the population persons geospatially.
 dot = person
 It's easier to visualize the densities this way.
 
+### Goicoechea Density Image
+![Goicoechea](density_image.png)
 
+^^^This image demonstrated the population using a heating/coloring scale. The blue regions are less populated and the yellow regions are the most populated.
+
+### Contour Lines
+I then added contour lines to the plot.
+![uas plot](plot_uas.png)
+
+It was then put onto the density colored plot.
+
+![subpolys filtered](subpolys_filtered.png)
+
+### Distinguishing Urban Areas
+The next image shows a plot that seperates urban areas and settlements.
 ![Urban Areas](urban_areas.png)
 
 ![Goicoechea Urban Areas](Goicoechea_urban_areas.png)
 
 ![Goicoechea Urban Areas w/points](Goicoechea_urban_areas_with_points.png)
 ![sf](plot(sf_multiline_obj).png)
-![uas plot](plot_uas.png)
+
 
 ###
 
 ![dsg conts](sm_dsg_conts.png)
-![subpolys](subpolys.png)
-
 
 ![subpolys before layer](subpolys_before_layer.png)
 
-
-![subpolys filtered](subpolys_filtered.png)
