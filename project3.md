@@ -44,3 +44,14 @@ The next image shows a plot that seperates urban areas and settlements.
 
 Lastly, this image shows the urbanized areas in Goicoechea. The dots represent the density.
 ![Goicoechea Urban Areas w/points](Goicoechea_urban_areas_with_points.png)
+
+## Part 2
+
+TOTAL POPULATION OF GOICOECHEA ADM2 = 
+Number of human settlements or urban areas = 
+
+Description of the distribution sizes and densities
+
+A description of the roadways and your estimate of the transportation networks level of service in comparison to the spatial distriubtion of human settlements and urban areas
+
+A description of health care facilities and your estimate of service accessibility in comparison to the spatial distriubtion of human settlements and urban areas
