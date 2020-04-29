@@ -17,14 +17,14 @@ How has topography appeared to have impacted the location of health care facilit
 Has producing your three-dimensional map resulted in an interpretion that is different from your previous analysis?
 
 
-Attempt 1:
+###### Attempt 1:
 ![attempt 1](combined_actual.png)
 
-Actual Image Overlayed:
+###### Actual Image Overlayed:
 ![Overlayed Image](combined.png)
 
-Arial View of Goicoechea:
-![Arial View](Screenshot (32).png)
+###### Arial View of Goicoechea:
+![Arial View](arial_view.png)
 
-Final 3-D image:
+###### Final 3-D image:
 ![Final Image](final_image.png)
